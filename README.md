@@ -65,7 +65,7 @@ This portfolio can be hosted on any static hosting platform like:
 Feel free to share your feedback or report issues via GitHub or my contact form.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+Pending...
 
 ---
 
